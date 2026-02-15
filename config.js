@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Brand Name",
-        owner: "Owner Name",
-        email: "info@example.com",
-        phone: "+1 234 567 890",
-        phoneClean: "+1234567890",
-        address: "Address",
-        copyright: "(c) 2026 Brand Name. All Rights Reserved."
+        brand: "Axisform & Co",
+        owner: "Mustafa Kaya",
+        email: "info@axisform.space",
+        phone: "+90 532 868 52 69",
+        phoneClean: "+905328685269",
+        address: "Ankara, Çankaya, İstiklal Cd. No: 23",
+        copyright: "(c) 2026 Axisform & Co. All Rights Reserved."
     };
 
     function apply() {
