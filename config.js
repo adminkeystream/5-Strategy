@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Axisform & Co",
-        owner: "Mustafa Kaya",
-        email: "info@axisform.space",
-        phone: "+90 532 868 52 69",
-        phoneClean: "+905328685269",
-        address: "Ankara, Çankaya, İstiklal Cd. No: 23",
-        copyright: "(c) 2026 Axisform & Co. All Rights Reserved."
+        brand: "A-Bureau",
+        owner: "Mustafa Yilmaz",
+        email: "info@borrowedglow.shop",
+        phone: "+90 553 639 05 88",
+        phoneClean: "+905536390588",
+        address: "Izmir, Karsiyaka, Ataturk Cd. No: 188",
+        copyright: "(c) 2026 A-Bureau. All Rights Reserved."
     };
 
     function apply() {
